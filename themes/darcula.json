@@ -490,6 +490,11 @@
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
+          },
+          "punctuation.markup": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
           }
         },
         "background.appearance": "opaque",
@@ -987,6 +992,11 @@
             "font_weight": null
           },
           "selector.pseudo": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.markup": {
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
@@ -1490,6 +1500,11 @@
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
+          },
+          "punctuation.markup": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
           }
         },
         "background.appearance": "opaque",
@@ -1987,6 +2002,11 @@
             "font_weight": null
           },
           "selector.pseudo": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.markup": {
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
@@ -2490,6 +2510,11 @@
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
+          },
+          "punctuation.markup": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
           }
         },
         "background.appearance": "opaque",
@@ -2987,6 +3012,11 @@
             "font_weight": null
           },
           "selector.pseudo": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.markup": {
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
@@ -3490,6 +3520,11 @@
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
+          },
+          "punctuation.markup": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
           }
         },
         "background.appearance": "opaque",
@@ -3990,6 +4025,11 @@
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
+          },
+          "punctuation.markup": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
           }
         },
         "background.appearance": "opaque",
@@ -4487,6 +4527,11 @@
             "font_weight": null
           },
           "selector.pseudo": {
+            "color": "#cc7832ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.markup": {
             "color": "#cc7832ff",
             "font_style": null,
             "font_weight": null
