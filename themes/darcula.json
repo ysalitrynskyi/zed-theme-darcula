@@ -405,12 +405,14 @@
           "text.literal": {
             "color": "#6a8759ff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
@@ -905,12 +907,14 @@
           "text.literal": {
             "color": "#6a8759ff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
@@ -1405,12 +1409,14 @@
           "text.literal": {
             "color": "#6a8759ff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
@@ -1905,12 +1911,14 @@
           "text.literal": {
             "color": "#6a8759ff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
@@ -2405,12 +2413,14 @@
           "text.literal": {
             "color": "#6a8759ff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
@@ -2905,12 +2915,14 @@
           "text.literal": {
             "color": "#8cc56fff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
@@ -3405,12 +3417,14 @@
           "text.literal": {
             "color": "#7cc36bff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
@@ -3905,12 +3919,14 @@
           "text.literal": {
             "color": "#7cc36bff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
@@ -4405,12 +4421,14 @@
           "text.literal": {
             "color": "#7cc36bff",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null,
+            "background_color": "#2f2f2fff"
           },
           "title": {
             "color": "#bbbbbbff",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 700,
+            "background_color": "#3c3f41ff"
           },
           "type": {
             "color": "#769aa5ff",
