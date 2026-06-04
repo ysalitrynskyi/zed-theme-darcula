@@ -1,0 +1,10 @@
+This theme reproduces the colors of the "Darcula" color scheme from
+JetBrains IDEs (IntelliJ IDEA, PhpStorm, PyCharm, WebStorm, etc.).
+
+Darcula and the JetBrains IDEs are products of JetBrains s.r.o.
+Copyright (C) JetBrains s.r.o.
+https://www.jetbrains.com/
+
+This is an independent, unofficial port for the Zed editor and is not
+affiliated with, endorsed by, or sponsored by JetBrains s.r.o.
+"Darcula" is used here only to describe the visual style being reproduced.

@@ -1,0 +1,7 @@
+id = "darcula"
+name = "Darcula"
+version = "1.0.0"
+schema_version = 1
+authors = ["Yevhen Salitrynskyi <ysalitrynskyi@gmail.com>"]
+description = "The classic JetBrains Darcula color scheme for Zed, with 9 variants: Lighter, Darcula, Dim, Darker, Pitch Black, High Contrast, Vivid, Vivid Darker, and Vivid Black"
+repository = "https://github.com/ysalitrynskyi/zed-theme-darcula"
